@@ -33,4 +33,4 @@ Selector elemen: [p, ol, h2, label, input, form]
 
 ## GitHub Pages
 
-URL: [tempel URL GitHub Pages Pertemuan 3]
+URL: [https://github.com/tika213jaemin/2622500041-PWD-SI1J-2627O.git]
