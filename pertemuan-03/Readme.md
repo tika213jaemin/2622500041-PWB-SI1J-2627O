@@ -3,7 +3,7 @@
 ## Baseline
 
 - Menggunakan hasil P2 sebagai dasar pengembangan P2
-- Menyalin 'index.html' dan
+- Menyalin 'index.html' dan 'img/foto-profil.jpg'ke'pertemuan-03/'.
 
 ## Implementasi Formulir
 
